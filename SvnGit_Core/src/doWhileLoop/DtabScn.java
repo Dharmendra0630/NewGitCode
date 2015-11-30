@@ -6,6 +6,9 @@ public class DtabScn {
 
 public static void main(String[] args) {
 	
+	System.out.println("i m trying to change for GitHub its my oroject:");
+
+	
 	System.out.println("enter the Value of i:");
 	Scanner sc=new Scanner(System.in);
 	
